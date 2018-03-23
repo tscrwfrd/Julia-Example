@@ -11,10 +11,12 @@ This repository contains an example Julia implementation of JuMP.
 3. inside julia session: 
   - ```Pkg.init()```
   - ```Pkg.update()```
+  - ```Pkg.add("JuMP")```
   - ```Pkg.add("Ipopt")``` - Julia will compile and install Ipopt
   
 ### Notes
 Ipopt repository: https://github.com/JuliaOpt/Ipopt.jl 
+JuMP repository: https://github.com/JuliaOpt/JuMP.jl
 
 ### Solution output
 
