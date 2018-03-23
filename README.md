@@ -1,2 +1,2 @@
 # Simple-Julia
-A basic repository that contains a simple Julia implementation of JuMP.
+This repository contains an example Julia implementation of JuMP.
