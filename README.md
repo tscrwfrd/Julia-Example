@@ -18,6 +18,8 @@ Ipopt repository: https://github.com/JuliaOpt/Ipopt.jl
 
 ### Solution output
 
+Inside src directory is example.jl.  You can run this example at the command line: ``` julia example.jl```
+
 ```
 ******************************************************************************
 This program contains Ipopt, a library for large-scale nonlinear optimization.
